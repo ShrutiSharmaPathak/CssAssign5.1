@@ -1,0 +1,20 @@
+header
+{
+    width:140px;
+    height:70px;
+    border:1px;
+    color:white;       /* Set text color to white */
+    background-color: blue; /* set the background color of header is blue*/
+    padding:20px;        /*The CSS padding property is used to generate space around
+                           an element's content, inside of any defined borders.*/
+    border-radius: 50%;  /* CSS border-radius property is used to give any element "rounded corners".
+                            it makes the border set to the proportions of the entire object, assuming
+                            x-axis for 50% of the width and y-axis for the 50% of the height of the 
+                            object, all corners combined make it appear as if the object is circular/eclipse.*/
+    text-align: center; 
+}
+body
+{
+    background: linear-gradient(lightyellow, yellow); /* Gradient is the progressive transition
+                                                             between two or more colors.*/
+}
